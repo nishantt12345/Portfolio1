@@ -25,8 +25,8 @@ I'm **Nishant Yadav**, a passionate student and developer with interests in web 
 ## 📁 Project Structure
 
 ├── images/
-├── style.css
-├── index.html
+├── style.css/
+├── index.html/
 └── README.md
 
 
